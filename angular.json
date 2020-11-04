@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "http-effects"
+    }
+  },
+  "defaultProject": "http-effects",
+  "cli": {
+    "analytics": "55aaf2c3-84db-409b-a2ab-510378b5d2cd"
+  }
 }
